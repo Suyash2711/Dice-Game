@@ -1,0 +1,39 @@
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    margin: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+    text-shadow: 5px 0 black;
+    color: chocolate;
+}
+
+p{
+    font-size: 3rem;
+    color:blue;
+    font-family: 'Indian Flower', cursive;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    margin-top: 6%;
+    color:darkred;
+    text-align: center;
+    font-family: 'Indian Flower', cursive;
+}
